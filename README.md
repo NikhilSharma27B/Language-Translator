@@ -122,6 +122,6 @@ To run this project locally:<br><br>
 
 ## 📢 Contact Information<br>
 
-For issues or inquiries, feel free to reach out at [nikhilsharma8369@gmail.com] or connect on [LinkedIn](https://linkedin.com](https://www.linkedin.com/in/nikhil-sharma-b1819328a/).<br>
+For issues or inquiries, feel free to reach out at [nikhilsharma8369@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/nikhil-sharma-b1819328a/).<br>
 
 
