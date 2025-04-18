@@ -32,7 +32,8 @@ This is necessary because free-tier API keys have usage limits or may expire.<br
 
 ## 📷 Preview<br>
 
-> Screenshots or a link to a hosted demo (if available) can be added here.<br>
+>![Screenshot 2025-04-18 204938](https://github.com/user-attachments/assets/da2265a2-3cad-4fd1-8e8c-4e39ca55648d)
+<br>
 
 ---
 
@@ -107,16 +108,13 @@ To run this project locally:<br><br>
 
 ---
 
-## 🤝 Contributing<br>
+## 🤝 Contributors<br>
 
-Contributions are welcome!<br>
+[25_AI&DS_B_Sahidul_Shaikh]
 
-1. Fork the repository<br>
-2. Create a new branch (`git checkout -b feature/your-feature`)<br>
-3. Make your changes<br>
-4. Commit your changes (`git commit -am 'Add new feature'`)<br>
-5. Push to the branch (`git push origin feature/your-feature`)<br>
-6. Open a pull request<br>
+[26_AI&DS_B_Kaushal_Sharma]
+
+[27_AI&DS_B_Nikhil_Sharma]
 
 ---
 
