@@ -4,7 +4,7 @@ This project is a **Language Translator Web Application** built using **React.js
 
 The translator supports **100+ languages**, provides **real-time translation**, and features **speech-to-text**, **text-to-speech**, **dark/light theme switching**, and more.<br><br>
 
-📁 For full source code and setup, refer to the [`language-translator`](./language-translator) directory.<br><br>
+📁 For full source code and setup, refer to the [`language-translator`](https://github.com/NikhilSharma27B/Language-Translator/tree/main) directory.<br><br>
 
 ---
 
