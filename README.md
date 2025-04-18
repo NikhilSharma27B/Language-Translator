@@ -1,6 +1,6 @@
-# 🌐 Language Translator – Industrial Practice Mini Project<br>
+# 🌐 Language Translator – Industrial Practice Project<br>
 
-This project is a **Language Translator Web Application** built using **React.js** and integrated with the **Google Translate API**. It was developed as part of the **Industrial Practice Mini Project (Semester IV)**.<br><br>
+This project is a **Language Translator Web Application** built using **React.js** and integrated with the **Google Translate API**. It was developed as part of the **Industrial Practice Project (Semester IV)**.<br><br>
 
 The translator supports **100+ languages**, provides **real-time translation**, and features **speech-to-text**, **text-to-speech**, **dark/light theme switching**, and more.<br><br>
 
@@ -20,6 +20,19 @@ This is necessary because free-tier API keys have usage limits or may expire.<br
 
 ---
 
+## 📁 Table of Contents<br>
+
+1. [Technologies Used](#technology-used)<br>
+2. [Preview](#preview)<br>
+3. [Installation](#installation)<br>
+4. [Usage](#usage)<br>
+5. [Features](#features)<br>
+6. [Contributing](#contributing)<br>
+7. [Acknowledgements](#acknowledgements)<br>
+8. [Contact Information](#contact-information)<br>
+
+---
+
 ## 🔧 Technologies Used<br>
 
 - React JS<br>
@@ -34,25 +47,6 @@ This is necessary because free-tier API keys have usage limits or may expire.<br
 
 >![Screenshot 2025-04-18 204938](https://github.com/user-attachments/assets/da2265a2-3cad-4fd1-8e8c-4e39ca55648d)
 <br>
-
----
-
-# 🌐 Language Translator<br>
-
-A simple and efficient web application to translate text between multiple languages using the **Google Translate API**, with added support for **speech recognition**, **text-to-speech**, **theme toggle**, and more.<br><br>
-
-Built using **React.js**, **Bootstrap**, and **Web Speech API**, this mini project delivers an intuitive interface for multilingual communication.<br>
-
----
-
-## 📁 Table of Contents<br>
-
-1. [Installation](#installation)<br>
-2. [Usage](#usage)<br>
-3. [Features](#features)<br>
-4. [Contributing](#contributing)<br>
-5. [Acknowledgements](#acknowledgements)<br>
-6. [Contact Information](#contact-information)<br>
 
 ---
 
